@@ -29,8 +29,6 @@
 | **[react-native-cloud-sync](https://github.com/kesha-antonov/react-native-cloud-sync)** <br/> <sub>iCloud KV, CloudKit, iCloud Drive and Google Drive behind one API</sub> | new | ![](https://img.shields.io/npm/dm/react-native-cloud-sync?label=%20&color=blue) | 513 <br/> <sub>Aug 2026</sub> |
 | | | | **11,038,143 total** |
 
-<sub>Everything I publish: **[npmjs.com/~kesha-antonov](https://www.npmjs.com/~kesha-antonov)**</sub>
-
 ---
 
 ## 🔧 What maintenance looks like
