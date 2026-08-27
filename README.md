@@ -8,6 +8,9 @@
   <a href="https://github.com/sponsors/kesha-antonov">
     <img src="https://img.shields.io/badge/💛_Sponsor_my_work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor kesha-antonov" />
   </a>
+  <a href="https://www.npmjs.com/~kesha-antonov">
+    <img src="https://img.shields.io/badge/npm-~kesha--antonov-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="kesha-antonov on npm" />
+  </a>
 </p>
 
 <h3 align="center">11,038,143 installs. ~680,000 a month. One maintainer.</h3>
@@ -25,6 +28,8 @@
 | **[react-native-chat](https://github.com/kesha-antonov/react-native-chat)** <br/> <sub>Streaming AI messages, reactions, replies, Web. Drop-in Gifted Chat successor</sub> | 45 | ![](https://img.shields.io/npm/dm/@kesha-antonov%2Freact-native-chat?label=%20&color=blue) | 11K <br/> <sub>Jun 2026</sub> |
 | **[react-native-cloud-sync](https://github.com/kesha-antonov/react-native-cloud-sync)** <br/> <sub>iCloud KV, CloudKit, iCloud Drive and Google Drive behind one API</sub> | new | ![](https://img.shields.io/npm/dm/react-native-cloud-sync?label=%20&color=blue) | 513 <br/> <sub>Aug 2026</sub> |
 | | | | **11,038,143 total** |
+
+<sub>Everything I publish: **[npmjs.com/~kesha-antonov](https://www.npmjs.com/~kesha-antonov)**</sub>
 
 ---
 
@@ -62,6 +67,11 @@ and **real docs** instead of a stale README. Companies also get **logo placement
   <a href="https://github.com/sponsors/kesha-antonov">
     <img src="https://img.shields.io/badge/Become_a_sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Become a sponsor" />
   </a>
+</p>
+
+<p align="center">
+  <sub><strong>Current goal: 10 sponsors = one guaranteed maintenance day every month.</strong><br/>
+  $5 to say thanks · $100 for logo placement and prioritized triage · $500 for a response-time promise</sub>
 </p>
 
 <p align="center">
