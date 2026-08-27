@@ -16,14 +16,15 @@
 
 ## 📦 What I maintain
 
-| Library | ⭐ | Downloads |
-|---|---|---|
-| **[react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)** <br/> <sub>The default chat UI of the React Native ecosystem</sub> | 14.4k | ![](https://img.shields.io/npm/dm/react-native-gifted-chat?label=%20&color=blue) |
-| **[react-native-zoom-reanimated](https://github.com/kesha-antonov/react-native-zoom-reanimated)** <br/> <sub>Apple Photos-style pinch, pan and double-tap zoom at 120fps</sub> | 309 | ![](https://img.shields.io/npm/dm/react-native-zoom-reanimated?label=%20&color=blue) |
-| **[react-native-background-downloader](https://github.com/kesha-antonov/react-native-background-downloader)** <br/> <sub>Large downloads and uploads that survive backgrounding and termination</sub> | 215 | ![](https://img.shields.io/npm/dm/@kesha-antonov/react-native-background-downloader?label=%20&color=blue) |
-| **[react-native-action-cable](https://github.com/kesha-antonov/react-native-action-cable)** <br/> <sub>Rails ActionCable channels over WebSocket</sub> | 67 | ![](https://img.shields.io/npm/dm/@kesha-antonov/react-native-action-cable?label=%20&color=blue) |
-| **[react-native-chat](https://github.com/kesha-antonov/react-native-chat)** <br/> <sub>Streaming AI messages, reactions, replies, Web. Drop-in Gifted Chat successor</sub> | 45 | ![](https://img.shields.io/npm/dm/@kesha-antonov/react-native-chat?label=%20&color=blue) |
-| **[react-native-cloud-sync](https://github.com/kesha-antonov/react-native-cloud-sync)** <br/> <sub>iCloud KV, CloudKit, iCloud Drive and Google Drive behind one API</sub> | new | ![](https://img.shields.io/npm/dm/react-native-cloud-sync?label=%20&color=blue) |
+| Library | ⭐ | Downloads / mo | Installs since I took over |
+|---|---|---|---|
+| **[react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)** <br/> <sub>The default chat UI of the React Native ecosystem</sub> | 14.4k | ![](https://img.shields.io/npm/dm/react-native-gifted-chat?label=%20&color=blue) | **7.67M** <br/> <sub>Apr 2024</sub> |
+| **[react-native-zoom-reanimated](https://github.com/kesha-antonov/react-native-zoom-reanimated)** <br/> <sub>Apple Photos-style pinch, pan and double-tap zoom at 120fps</sub> | 309 | ![](https://img.shields.io/npm/dm/react-native-zoom-reanimated?label=%20&color=blue) | **1.55M** <br/> <sub>Jun 2022</sub> |
+| **[react-native-background-downloader](https://github.com/kesha-antonov/react-native-background-downloader)** <br/> <sub>Large downloads and uploads that survive backgrounding and termination</sub> | 215 | ![](https://img.shields.io/npm/dm/@kesha-antonov%2Freact-native-background-downloader?label=%20&color=blue) | **1.20M** <br/> <sub>Jan 2023</sub> |
+| **[react-native-action-cable](https://github.com/kesha-antonov/react-native-action-cable)** <br/> <sub>Rails ActionCable channels over WebSocket</sub> | 67 | ![](https://img.shields.io/npm/dm/@kesha-antonov%2Freact-native-action-cable?label=%20&color=blue) | **613K** <br/> <sub>Nov 2018</sub> |
+| **[react-native-chat](https://github.com/kesha-antonov/react-native-chat)** <br/> <sub>Streaming AI messages, reactions, replies, Web. Drop-in Gifted Chat successor</sub> | 45 | ![](https://img.shields.io/npm/dm/@kesha-antonov%2Freact-native-chat?label=%20&color=blue) | 11K <br/> <sub>Jun 2026</sub> |
+| **[react-native-cloud-sync](https://github.com/kesha-antonov/react-native-cloud-sync)** <br/> <sub>iCloud KV, CloudKit, iCloud Drive and Google Drive behind one API</sub> | new | ![](https://img.shields.io/npm/dm/react-native-cloud-sync?label=%20&color=blue) | 513 <br/> <sub>Aug 2026</sub> |
+| | | | **11,038,143 total** |
 
 ---
 
