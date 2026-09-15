@@ -15,22 +15,36 @@
 
 <hr />
 
-<p align="center">
-  <a href="https://cryptoc-app.web.app/"><img src="https://cryptoc-app.web.app/img/icon.png?v=2" width="80" height="80" alt="cryptoc app icon" /></a>
-</p>
+<table align="center">
+<tr>
+<td align="center" valign="top" width="190">
+  <a href="https://cryptoc-app.web.app/"><img src="https://cryptoc-app.web.app/img/icon.png?v=2" width="76" height="76" alt="cryptoc app icon" /></a>
+  <br /><br />
+  <img src="https://cryptoc-app.web.app/img/qr-get.png" width="124" height="124" alt="QR code that installs cryptoc" />
+  <br />
+  <sub>Scan to install</sub>
+  <br /><br />
+  <a href="https://apps.apple.com/app/cryptoc/id1333169178"><img height="40" src="https://cryptoc-app.web.app/img/appstore.svg" alt="Download on the App Store" /></a>
+  <br />
+  <a href="https://play.google.com/store/apps/details?id=co.ssoul.CryptoC"><img height="59" src="https://cryptoc-app.web.app/img/googleplay.png" alt="Get it on Google Play" /></a>
+</td>
+<td valign="top">
 
-<p align="center">
-  <strong><a href="https://cryptoc-app.web.app/">cryptoc</a></strong> - my app. Your crypto portfolio on the home screen, lock screen and Apple&nbsp;Watch.<br />
-  No account, no exchange API keys, no ads.
-</p>
+### [cryptoc](https://cryptoc-app.web.app/) - my crypto portfolio app
 
-<p align="center">
-  <a href="https://apps.apple.com/app/cryptoc/id1333169178"><img height="40" src="https://cryptoc-app.web.app/img/appstore.svg" alt="Download on the App Store" /></a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=co.ssoul.CryptoC"><img height="59" src="https://cryptoc-app.web.app/img/googleplay.png" alt="Get it on Google Play" /></a>
-</p>
+Your coins on the home screen, lock screen and watch face. iPhone, iPad, Mac, Apple Watch, Android, Android tablet and Wear OS.
 
-<p align="center">
-  <sub>Downloading it is what pays for the time that goes into everything below.</sub>
-</p>
+- Portfolio with average buy price and 24h / 180-day / all-time P&L
+- Widgets in three sizes, refreshed in the background - most days you never open the app
+- Price alerts on 5,000+ coins, delivered while the app is closed
+- **No account, no email, no exchange API keys, no ads.** Your holdings never reach a server - they sync through your own iCloud or Google Drive
+- Free for 3 holdings, and that is not a trial timer
+
+<sub>Downloading it is what pays for the time that goes into everything below.</sub>
+
+</td>
+</tr>
+</table>
 
 <hr />
 
@@ -45,18 +59,14 @@
 | **[react-native-chat](https://github.com/kesha-antonov/react-native-chat)** <br/> <sub>Streaming AI messages, reactions, replies, Web. Drop-in Gifted Chat successor</sub> | ![](https://img.shields.io/npm/dm/@kesha-antonov%2Freact-native-chat?label=%20&color=blue) |
 | **[react-native-cloud-sync](https://github.com/kesha-antonov/react-native-cloud-sync)** <br/> <sub>iCloud KV, CloudKit, iCloud Drive and Google Drive behind one API</sub> | ![](https://img.shields.io/npm/dm/react-native-cloud-sync?label=%20&color=blue) |
 
-Gifted Chat went 14 months without a release. 150,000 people a month installed it anyway.
-I shipped the next one, then 25 more: **404 commits**, backlog down from **154 issues to 3**,
-downloads **168K → 444K a month**.
+Gifted Chat went 14 months without a release; 150,000 people a month installed it anyway. I shipped
+the next one, then 25 more - **404 commits**, backlog **154 issues → 3**, downloads **168K → 444K a month**.
 
 ## 💛 Sponsoring buys my time
 
-Every React Native, Expo, Reanimated or Gradle release can break native code. Someone ports it
-before your build fails. That ships nothing for me, and keeps your app building on Monday.
-
-Sponsors get faster issue turnaround, same-week support for new RN and Expo releases, and real
-docs. Companies also get logo placement, prioritized PR review and a heads-up before breaking
-changes land.
+Every React Native, Expo, Reanimated or Gradle release can break native code, and someone has to port
+it before your build fails. Sponsors get faster issues, same-week support for new RN and Expo releases,
+and real docs; companies also get logo placement and a heads-up before breaking changes land.
 
 <p align="center">
   <a href="https://github.com/sponsors/kesha-antonov">
