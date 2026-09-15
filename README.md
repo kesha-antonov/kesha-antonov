@@ -13,6 +13,27 @@
   </a>
 </p>
 
+<hr />
+
+<p align="center">
+  <a href="https://cryptoc-app.web.app/"><img src="https://cryptoc-app.web.app/img/icon.png" width="80" height="80" alt="cryptoc app icon" /></a>
+</p>
+
+<p align="center">
+  <strong><a href="https://cryptoc-app.web.app/">cryptoc</a></strong> - my app. Your crypto portfolio on the home screen, lock screen and Apple&nbsp;Watch.<br />
+  No account, no exchange API keys, no ads.
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/app/cryptoc/id1333169178"><img height="40" src="https://cryptoc-app.web.app/img/appstore.svg" alt="Download on the App Store" /></a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=co.ssoul.CryptoC"><img height="59" src="https://cryptoc-app.web.app/img/googleplay.png" alt="Get it on Google Play" /></a>
+</p>
+
+<p align="center">
+  <sub>Downloading it is what pays for the time that goes into everything below.</sub>
+</p>
+
+<hr />
+
 <h3 align="center">11M installs. ~680,000 a month. One maintainer.</h3>
 
 | Library | Downloads / mo |
