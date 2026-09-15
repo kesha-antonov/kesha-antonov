@@ -16,7 +16,7 @@
 <hr />
 
 <p align="center">
-  <a href="https://cryptoc-app.web.app/"><img src="https://cryptoc-app.web.app/img/icon.png" width="80" height="80" alt="cryptoc app icon" /></a>
+  <a href="https://cryptoc-app.web.app/"><img src="https://cryptoc-app.web.app/img/icon.png?v=2" width="80" height="80" alt="cryptoc app icon" /></a>
 </p>
 
 <p align="center">
