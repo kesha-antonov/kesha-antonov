@@ -64,7 +64,8 @@ Your coins on the home screen, lock screen and watch face. iPhone, iPad, Mac, Ap
 | **[react-native-cloud-sync](https://github.com/kesha-antonov/react-native-cloud-sync)** <br/> <sub>iCloud KV, CloudKit, iCloud Drive and Google Drive behind one API</sub> | ![](https://img.shields.io/npm/dm/react-native-cloud-sync?label=%20&color=blue) |
 
 Gifted Chat went 14 months without a release; 150,000 people a month installed it anyway. I shipped
-the next one, then 25 more - **404 commits**, backlog **154 issues → 3**, downloads **168K → 444K a month**.
+the next one, then 25 more - **404 commits**, backlog **154 issues → 3**, downloads **168K → 444K a month**
+while I actively maintained it. I now focus on my fork, [react-native-chat](https://github.com/kesha-antonov/react-native-chat).
 
 ## 💛 Sponsoring buys my time
 
