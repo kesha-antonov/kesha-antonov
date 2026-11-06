@@ -57,10 +57,10 @@ Your coins on the home screen, lock screen and watch face. iPhone, iPad, Mac, Ap
 | Library | Downloads / mo |
 |---|---|
 | **[react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)** <br/> <sub>The default chat UI of the React Native ecosystem</sub> | ![](https://img.shields.io/npm/dm/react-native-gifted-chat?label=%20&color=blue) |
+| **[react-native-chat](https://github.com/kesha-antonov/react-native-chat)** <br/> <sub>Streaming AI messages, reactions, replies, Web. Drop-in Gifted Chat successor</sub> | ![](https://img.shields.io/npm/dm/@kesha-antonov%2Freact-native-chat?label=%20&color=blue) |
 | **[react-native-zoom-reanimated](https://github.com/kesha-antonov/react-native-zoom-reanimated)** <br/> <sub>Apple Photos-style pinch, pan and double-tap zoom at 120fps</sub> | ![](https://img.shields.io/npm/dm/react-native-zoom-reanimated?label=%20&color=blue) |
 | **[react-native-background-downloader](https://github.com/kesha-antonov/react-native-background-downloader)** <br/> <sub>Downloads and uploads that survive backgrounding and termination</sub> | ![](https://img.shields.io/npm/dm/@kesha-antonov%2Freact-native-background-downloader?label=%20&color=blue) |
 | **[react-native-action-cable](https://github.com/kesha-antonov/react-native-action-cable)** <br/> <sub>Rails ActionCable channels over WebSocket</sub> | ![](https://img.shields.io/npm/dm/@kesha-antonov%2Freact-native-action-cable?label=%20&color=blue) |
-| **[react-native-chat](https://github.com/kesha-antonov/react-native-chat)** <br/> <sub>Streaming AI messages, reactions, replies, Web. Drop-in Gifted Chat successor</sub> | ![](https://img.shields.io/npm/dm/@kesha-antonov%2Freact-native-chat?label=%20&color=blue) |
 | **[react-native-cloud-sync](https://github.com/kesha-antonov/react-native-cloud-sync)** <br/> <sub>iCloud KV, CloudKit, iCloud Drive and Google Drive behind one API</sub> | ![](https://img.shields.io/npm/dm/react-native-cloud-sync?label=%20&color=blue) |
 
 Gifted Chat went 14 months without a release; 150,000 people a month installed it anyway. I shipped
