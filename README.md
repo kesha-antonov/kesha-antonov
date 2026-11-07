@@ -52,7 +52,7 @@ Your coins on the home screen, lock screen and watch face. iPhone, iPad, Mac, Ap
 <hr />
 <!-- cryptoc-promo:end -->
 
-<h3 align="center">12.5M installs. ~600,000 a month. One maintainer.</h3>
+<h3 align="center">12.5M installs. ~700,000 a month. One maintainer.</h3>
 
 | Library | Downloads / mo |
 |---|---|
