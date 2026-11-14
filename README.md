@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<h3 align="center">12.5M installs. ~700,000 a month. One maintainer.</h3>
+<h3 align="center">12.5M installs. ~800,000 a month. One maintainer.</h3>
 
 | Library | Downloads / mo |
 |---|---|
